@@ -1,0 +1,18 @@
+[submodule "submodules/agent-skill-creator"]
+	path = submodules/agent-skill-creator
+	url = https://github.com/natea/agent-skill-creator
+[submodule "submodules/ar-claude-skills"]
+	path = submodules/ar-claude-skills
+	url = https://github.com/natea/ar-claude-skills
+[submodule "submodules/Skill_Seekers"]
+	path = submodules/Skill_Seekers
+	url = https://github.com/natea/Skill_Seekers
+[submodule "submodules/mcp-getgather"]
+	path = submodules/mcp-getgather
+	url = https://github.com/natea/mcp-getgather
+[submodule "submodules/superpowers"]
+	path = submodules/superpowers
+	url = https://github.com/natea/superpowers
+[submodule "submodules/anthropic-claude-skills"]
+	path = submodules/anthropic-claude-skills
+	url = https://github.com/natea/anthropic-claude-skills
